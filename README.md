@@ -69,3 +69,7 @@ We sincerely invite developers to participate in the OriginBot project. There ar
 - If you are interested in OriginBot, feel free to star the project's source code repository or share it with developers who might need it;
 
 - If you develop more interesting functions or robots based on the OriginBot open-source project, feel free to share them in the [community forum](https://guyuehome.com/Bubble/circleDetail/id/95). Outstanding projects will also be promoted in the community.
+
+
+![OriginBot](./originbot.png)
+1. odom
